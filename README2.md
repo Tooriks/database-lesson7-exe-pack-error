@@ -1,4 +1,4 @@
-markdown
+
 # 灾难应急管理系统 开发、排错、打包完整记录
 ## 项目基础信息
 - 技术栈：Python + pymysql + MySQL
